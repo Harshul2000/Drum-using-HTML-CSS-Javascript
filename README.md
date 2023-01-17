@@ -6,7 +6,7 @@ This project involved the use a “data-key” attribute that I'd never seen bef
  <img src="data/Screenshot 2023-01-17 194325.png" height="240" >
  
 ## Final Webpage
-<img src="data/Screenshot 2023-01-17 194219.png height="240" >
+<img src="data/Screenshot 2023-01-17 194219.png" height="240" >
 
 
 
